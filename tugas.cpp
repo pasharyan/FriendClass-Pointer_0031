@@ -32,3 +32,5 @@ public:
 // ================== CLASS BELAH KETUPAT ==================
 class BelahKetupat
 {
+private:
+    double d1, d2;
