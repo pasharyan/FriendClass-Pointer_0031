@@ -24,3 +24,7 @@ public:
     }
 
     void tampilkanKeliling()
+    {
+        cout << "Keliling layang-layang (belum dihitung)" << endl;
+    }
+};
