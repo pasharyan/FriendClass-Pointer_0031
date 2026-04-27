@@ -28,3 +28,7 @@ public:
         cout << "Keliling layang-layang (belum dihitung)" << endl;
     }
 };
+
+// ================== CLASS BELAH KETUPAT ==================
+class BelahKetupat
+{
