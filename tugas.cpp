@@ -72,3 +72,6 @@ int main()
     cout << endl;
     ObjectLayang.tampilkanKeliling();
     ObjectBelah.tampilkanKeliling();
+
+    return 0;
+}
