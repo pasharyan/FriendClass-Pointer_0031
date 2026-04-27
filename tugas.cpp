@@ -54,3 +54,9 @@ public:
         cout << "Keliling belah ketupat (belum dihitung)" << endl;
     }
 };
+
+// ================== MAIN ==================
+int main()
+{
+    LayangLayang ObjectLayang;
+    BelahKetupat ObjectBelah;
